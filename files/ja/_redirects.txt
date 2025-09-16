@@ -4141,6 +4141,7 @@
 /ja/docs/Web/CSS/At-rule-functions	/ja/docs/Web/CSS/CSS_syntax/At-rule_functions
 /ja/docs/Web/CSS/Background_Backup	/ja/docs/Web/CSS/background
 /ja/docs/Web/CSS/Block_formatting_context	/ja/docs/Web/CSS/CSS_display/Block_formatting_context
+/ja/docs/Web/CSS/CSSOM_view/Coordinate_systems	/ja/docs/Web/API/CSSOM_view_API/Coordinate_systems
 /ja/docs/Web/CSS/CSS_Animations/Detecting_CSS_animation_support	/ja/docs/orphaned/Web/CSS/CSS_Animations/Detecting_CSS_animation_support
 /ja/docs/Web/CSS/CSS_Background_and_Borders	/ja/docs/Web/CSS/CSS_backgrounds_and_borders
 /ja/docs/Web/CSS/CSS_Background_and_Borders/Border-image_generator	/ja/docs/Web/CSS/CSS_backgrounds_and_borders/Border-image_generator
